@@ -4,7 +4,7 @@ var Player = function(){
     mark: null,
     max_in_a_row: 0,
     is_playing: false
-  }
+  };
 };
 
 var Game = function(){
